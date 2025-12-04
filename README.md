@@ -100,23 +100,7 @@ DALL-E (for creative assets)
 
 📬 Let’s Work Together
 
-Email: your email here
-Portfolio Folder Structure
-/meta-ads-portfolio
-   - case-study1.pdf
-   - ads-results.png
-   - luxury-beauty-ad.png
-
-/social-media-designs
-   - carousel1.png
-   - engagement-post.png
-   - reel-storyboard.pdf
-
-/ugc-videos
-   - skincare-demo.mp4
-   - beauty-voiceover.mp4
-   - lifestyle-ugc.mp4
-
+Email: ummimukhtar@gmail.com
 WhatsApp: +2349031512325
 Location: Kano, Nigeria
 Available for: Global/Remote projects
