@@ -117,6 +117,6 @@ Portfolio Folder Structure
    - beauty-voiceover.mp4
    - lifestyle-ugc.mp4
 
-WhatsApp: your number here
+WhatsApp: +2349031512325
 Location: Kano, Nigeria
 Available for: Global/Remote projects
